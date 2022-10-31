@@ -18,4 +18,6 @@
 
 ### `http://localhost:3000/`
 
+### Senha: `Admin`
+
 ### Bons testes
