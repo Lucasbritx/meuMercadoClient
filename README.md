@@ -2,9 +2,9 @@
 
 ### - É necessário ter node instalado em sua máquina
 
-### - Após abri o projeto em uma IDE
+### - Após abra o projeto em uma IDE
 
-### - Caso não tenha o yarn instalado na sua máquina, rode o comando npm install --global yarn
+### - Caso não tenha o yarn instalado na sua máquina, rode o comando `npm install --global yarn`
 
 ### - Rode no terminal o comando `yarn`
 
