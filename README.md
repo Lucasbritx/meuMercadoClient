@@ -1,6 +1,6 @@
 ### - Faça o clone do projeto em sua máquina
 
-### - É necessário ter node instalado em sua máquina
+### - É necessário ter node instalado em sua máquina (Recomendado Versão 16.16.)
 
 ### - Após abra o projeto em uma IDE
 
