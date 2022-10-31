@@ -78,10 +78,10 @@ const ProductsPage = () => {
   const saveProduct = async (values) => {
     if (isValidUser()) {
       try {
-        if (!values.id) {
-          await api.post("/product", values);
-        } else {
+        if (productForEdit) {
           await api.put(`/product/${values.id}`, values);
+        } else {
+          await api.post("/product", values);
         }
 
         setError(undefined);
